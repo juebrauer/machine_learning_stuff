@@ -4,9 +4,7 @@ Collection of stuff that has to do with machine learning
 
 # Links
 
-https://www.youtube.com/watch?v=eMlx5fFNoYc
-
-https://youtu.be/eMlx5fFNoYc?si=shGK_5l0TCvClWas
+- [YouTube Video (26min): Attention in transformers, visually explained | Chapter 6, Deep Learning](https://youtu.be/eMlx5fFNoYc?si=shGK_5l0TCvClWas)<br>Gives you a good intuition what the attention mechanism in Transformers does
 
 
 
