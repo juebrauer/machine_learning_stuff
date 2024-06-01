@@ -4,11 +4,11 @@ Collection of stuff that has to do with machine learning
 
 # AI documentaries
 
+- [YouTube 31min: Hugging Face, the story so far](https://www.youtube.com/watch?v=ThzNQaqgUsM)<br>
+  The story behind Hugging Face (so far) by Julien Simon (which is with Hugging Face)
+  
 - [YouTube 1h28min: Schlaue neue Welt - Das KI-Wettrennen | Doku HD | ARTE](https://www.youtube.com/watch?v=EJsa6wZ6ovY)<br>
   Interesting documentary from ARTE about the race for AI. Especially interesting for the insights into the German company "Aleph Alpha".
-
-
-
 
 # LLMs
 
@@ -27,7 +27,8 @@ Collection of stuff that has to do with machine learning
 
 # Transformers
 
-- [YouTube 40min: Deep dive - Better Attention layers for Transformer models](https://www.youtube.com/watch?v=2TT384U4vQg) - explains attention mechanism variants like Multi-Query Attention (MQA), Group-Query Attention (GQA), Sliding Window Attention (SWA), Flash Attention, Flash Attention v2,Paged Attention
+- [YouTube 40min: Deep dive - Better Attention layers for Transformer models](https://www.youtube.com/watch?v=2TT384U4vQg)<br>
+  Explains attention mechanism variants like Multi-Query Attention (MQA), Group-Query Attention (GQA), Sliding Window Attention (SWA), Flash Attention, Flash Attention v2,Paged Attention
 39:00 The Hugging Face LLM performance leaderboard
 - [YouTube 27min: But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learning](https://youtu.be/wjZofJX0v4M?si=w2919EbAb6KFWxx8)<br>
 
